@@ -1,0 +1,23 @@
+- Change Japanese culture to Yamato/Tsugaru (Tohoku) and Satsuman
+
+- For Tamna, add unique culture based on King Injo's decree banning the islanders from the mainland
+
+- Reorganize Korean provinces to the historical "Eight Provinces of Korea"
+- Add Ulleungdo?
+- Add Tsushima (terrain, province properties, etc.) *incomplete
+- fix Tamna's preset dynasties in history/countries/TMN - Tamna
+- fix So's (Tsushima) dynasty names in history/countries/SOO - So
+- maybe fix So's flag by carbon copying Shoni's (SHN)?
+	- fix So daimyo status with Ashikaga (diplomacy)
+- Remove Tamna from existence but make it a releaseable state
+- fix Tamna's low quality flag
+
+- change the culture in northeast Korea?
+	- by adding border provinces?
+
+- expand Okinawa/Ryukyu
+
+- add events related to Imjin War
+- Wokou events?
+
+(New Mod Idea akin to Ryukyu Expanded) Unique Iceland events? Leik Erikson/Colonization, Exploration ideas?
