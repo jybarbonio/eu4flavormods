@@ -1,0 +1,12 @@
+vassal = { #So daimyo
+	first = ASK
+	second = SOO
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+alliance = { #So clan was until the late 1400s/mid 1500s 
+	first = SHN
+	second = SOO
+	start_date = 1444.11.11
+	end_date = 1871.1.1 #Han abolishment rough date
+}

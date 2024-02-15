@@ -1,0 +1,8 @@
+738 = "Takao"
+1032 = "Chishima-Retto"
+1033 = "Saharin"
+2154 = "Taihoku"
+2155 = "Taichu"
+2741 = "Tamura"
+4703 = "Takayama"
+4704 = "Chuo"

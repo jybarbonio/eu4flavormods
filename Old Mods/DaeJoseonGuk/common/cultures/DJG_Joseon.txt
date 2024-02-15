@@ -1,0 +1,145 @@
+korean_g = {
+	graphical_culture = asiangfx
+	
+	korean = {
+		primary = KOR
+		dynasty_names = { 
+			Yi Wang Kim Shin Song Pak Chae Gang Jeong Jang Yun Han Hong Yu Ki
+		}
+		male_names = {
+			In Se Ye Seong Yonsan Jung Myeon Seon Gwanghae Hyo Hyeon Suk Gyeong Yeong Jeong Dan Mun Tae Imhae Uian 
+			Bokseong Geumwon Yeongyang Yeongchang Yuenrueng Sado Munhyo Bongseong Deokheung Sinseong Uichang Jeongwon 
+			Hyesun Hyejeong Hyohye Uihye Hyosun Gyeonghyeon Insun Jeongsin Jeonghye Jeongsuk Jeong-an Jeonghyu 
+			Jeongmyeong Hwan Do Ik Mok Si I Guem Sun Rip Il Dong Gwai Sang Ji U Gyu Dae Gu 
+		}
+		female_names = {
+			Ae-jung Areum Bit-na Bo-young Bora Chae-won Chae-young Chun-hwa Chun-ja Da-hee Do-hee Eun-ah Eun-bi 
+			Eun-byul Eun-chae Eun-ha Eun-hee Eun-hye Eun-ji Eun-jin Eun-ju Eun-jung Eun-kyung Eun-mi Eun-sook Eun-suh 
+			Eun-young Ga-in Ga-young Gyuri Ha-eun Hana Hye-bin Hye-in Hye-ja Hye-jin Hye-jung Hye-kyung Hye-mi Hye-rim 
+			Hye-su Hye-won Hyo-joo Hyo-rin Hyun-a Hyun-kyung Hyun-mi Hyun-sook In-hye In-sook Ja-kyung Jae-eun Jang-mi 
+			Jeong-ja Ji-ae Ji-eun Ji-hye Ji-yeon Ji-young Jina Jung-ah Jung-sook Jung-soon Kyung-ah Kyung-hee Kyung-hwa 
+			Kyung-ja Kyung-ok Kyung-sook Mi-hee Mi-ja Mi-jung Mi-kyung Mi-ran Mi-sook Mi-yeon Mi-young Min-hee Min-ji 
+			Min-jung Min-seo Mina Myung-hwa Myung-ok Myung-sook Myung-soon Na-young Nana Nari Nuri Sang-mi Se-bin 
+			Seo-hyeon Seo-yeon Seo-yun Seol-hee Seon-ok Seong-ja Seung-ah Shin-hye Si-yeon So-hyun So-won So-yi 
+			So-young Soo-ah Soo-hee Sook-ja Soon-hee Soon-ja Sora Su-mi Sun-hee Sun-hwa Sun-mi Sun-ok Sung-mi Sung-sook 
+			Ye-eun Ye-ji Ye-jin Ye-rin Ye-seo Ye-won Yeo-jin Yeon-hee Yi-kyung Yoo-kyung Yoon-hee Yoon-sook Young-ae 
+			Young-hee Young-ja Young-mi Young-sook Yu-ri Yumi
+		}
+	}
+	tamna = {
+		primary = TMN
+		dynasty_names = { 
+				Go Go Yang Bu
+		}
+		male_names = {
+			Eulla Geon Samgye Ilmang Doje Eon-gyeong Bomyeong Haengcheon Hwan Sik Uk Hwang Wi Yeong Hu Dumyeong Seonju
+			Jinam Seongbang Munseong Ik Jihyo Suk Hyeonbang Gi Dam Ji-un Seo Damyeong Dam Cheseam Seongjin Hong Cheoryang
+			Won Pyoryun Hyeong Chido Uk Cheonwon Hogong So Gyeongjik Min Jagyeon
+			
+			Malo Yu Jogi Jeongik Jeok Yeorim Jeongan Soon Boksu Indan Sujwa Seok Soonryang Soonwon Myeongeol Singeol
+			Bong-Ye
+		}
+		female_names = {
+
+		}
+	}
+}
+
+japanese_g = {
+	graphical_culture = asiangfx
+	
+	togoku = { #Togoku / Eastern Japanese
+		primary = JAP
+		dynasty_names = { 
+			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
+			Kuni Nashimoto Takeda Yamashina
+		}
+		male_names = {
+			Motohito Mihito Hikohito Fusahito Katsuhito Tomohito Michihito Kazuhito Kotohito Okiko Tsuguhito Nagahito 
+			Satohito Asahito Toshiko Yasuhito Teruhito Hidehito Morohito Ayahito Takauji Yoshiakira Yoshimitsu 
+			Yoshimochi Yoshikazu Yoshinori Yoshikatsu Yoshimasa Yoshihisa Yoshitane Yoshizumi Yoshiharu Yoshiteru 
+			Yoshihide Yoshiaki Nobutada Hidenobu Hideyoshi Hideyori Ieyasu Hidetada Iemitsu Ietsuna Tsunayoshi Ienobu 
+			Ietsugu Yoshimune Ieshige Ieharu Ienari Ieyoshi Iesada Iemochi Yoshinobu
+		}
+		female_names = {
+			Toku Sen Tama Aya Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
+			Ayako Ayame Ayane Ayano Chika Chikako Chinatsu Chiyo Chiyoko Cho Chou Chouko Emi Etsuko Hana Hanae Hanako Haru 
+			Haruka Haruko Haruna Hikari Hikaru Hina Hinata Hiroko Hitomi Honoka Hoshi Hoshiko Hotaru Izumi Junko Kaede 
+			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kumiko Kyo Kyou Mai Makoto 
+			Mami Manami Mao Mariko Masami Masuyo Mayu Megumi Mei Michi Michiko Midori Mika Miki Miku Minako Minato Mio 
+			Misaki Mitsuko Miu Miyako Miyu Mizuki Moe Momoka Momoko Moriko Nana Nanami Naoko Naomi Natsuki Natsuko Natsumi 
+			Noa Noriko Ran Rei Ren Riko Rin Rina Rio Sachiko Saki Sakura Sakurako Satomi Sayuri Setsuko Shinju Shinobu 
+			Shiori Shizuka Shun Sora Sumiko Suzu Suzume Takako Takara Tamiko Tomiko Tomoko Tomomi Tsubaki Tsubame Tsubasa 
+			Tsukiko Ume Umeko Wakana Yasu Yoko Yoshi Yoshiko Youko Yua Yui Yuina Yuki Yukiko Yuko Yumi Yumiko Yuri Yuu 
+			Yuuka Yuuki Yuuko Yuuna Yuzuki
+		}
+	}
+	japanese = { #Saigoku / Western Japanese
+		primary = MRI
+		dynasty_names = { 
+			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
+			Kuni Nashimoto Takeda Yamashina
+		}
+		male_names = {
+			Motohito Mihito Hikohito Fusahito Katsuhito Tomohito Michihito Kazuhito Kotohito Okiko Tsuguhito Nagahito 
+			Satohito Asahito Toshiko Yasuhito Teruhito Hidehito Morohito Ayahito Takauji Yoshiakira Yoshimitsu 
+			Yoshimochi Yoshikazu Yoshinori Yoshikatsu Yoshimasa Yoshihisa Yoshitane Yoshizumi Yoshiharu Yoshiteru 
+			Yoshihide Yoshiaki Nobutada Hidenobu Hideyoshi Hideyori Ieyasu Hidetada Iemitsu Ietsuna Tsunayoshi Ienobu 
+			Ietsugu Yoshimune Ieshige Ieharu Ienari Ieyoshi Iesada Iemochi Yoshinobu
+		}
+		female_names = {
+			Toku Sen Tama Aya Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
+			Ayako Ayame Ayane Ayano Chika Chikako Chinatsu Chiyo Chiyoko Cho Chou Chouko Emi Etsuko Hana Hanae Hanako Haru 
+			Haruka Haruko Haruna Hikari Hikaru Hina Hinata Hiroko Hitomi Honoka Hoshi Hoshiko Hotaru Izumi Junko Kaede 
+			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kumiko Kyo Kyou Mai Makoto 
+			Mami Manami Mao Mariko Masami Masuyo Mayu Megumi Mei Michi Michiko Midori Mika Miki Miku Minako Minato Mio 
+			Misaki Mitsuko Miu Miyako Miyu Mizuki Moe Momoka Momoko Moriko Nana Nanami Naoko Naomi Natsuki Natsuko Natsumi 
+			Noa Noriko Ran Rei Ren Riko Rin Rina Rio Sachiko Saki Sakura Sakurako Satomi Sayuri Setsuko Shinju Shinobu 
+			Shiori Shizuka Shun Sora Sumiko Suzu Suzume Takako Takara Tamiko Tomiko Tomoko Tomomi Tsubaki Tsubame Tsubasa 
+			Tsukiko Ume Umeko Wakana Yasu Yoko Yoshi Yoshiko Youko Yua Yui Yuina Yuki Yukiko Yuko Yumi Yumiko Yuri Yuu 
+			Yuuka Yuuki Yuuko Yuuna Yuzuki
+		}
+	}
+	kyushuan = { #Kyushu culture
+		primary = OTM
+		dynasty_names = { 
+			Yamato Arisugawa Asaka Fushimi "Kan'in" Katsura Kaya Kitashirakawa 
+			Kuni Nashimoto Takeda Yamashina
+		}
+		male_names = {
+			Motohito Mihito Hikohito Fusahito Katsuhito Tomohito Michihito Kazuhito Kotohito Okiko Tsuguhito Nagahito 
+			Satohito Asahito Toshiko Yasuhito Teruhito Hidehito Morohito Ayahito Takauji Yoshiakira Yoshimitsu 
+			Yoshimochi Yoshikazu Yoshinori Yoshikatsu Yoshimasa Yoshihisa Yoshitane Yoshizumi Yoshiharu Yoshiteru 
+			Yoshihide Yoshiaki Nobutada Hidenobu Hideyoshi Hideyori Ieyasu Hidetada Iemitsu Ietsuna Tsunayoshi Ienobu 
+			Ietsugu Yoshimune Ieshige Ieharu Ienari Ieyoshi Iesada Iemochi Yoshinobu
+		}
+		female_names = {
+			Toku Sen Tama Aya Ina Kumiko Ai Aiko Aimi Aina Airi Akane Akemi Aki Akiko Akira Ami Aoi Asuka Atsuko Aya Ayaka 
+			Ayako Ayame Ayane Ayano Chika Chikako Chinatsu Chiyo Chiyoko Cho Chou Chouko Emi Etsuko Hana Hanae Hanako Haru 
+			Haruka Haruko Haruna Hikari Hikaru Hina Hinata Hiroko Hitomi Honoka Hoshi Hoshiko Hotaru Izumi Junko Kaede 
+			Kanon Kaori Kaoru Kasumi Kazue Kazuko Keiko Kiku Kiyoko Kohaku Koharu Kokoro Kotone Kumiko Kyo Kyou Mai Makoto 
+			Mami Manami Mao Mariko Masami Masuyo Mayu Megumi Mei Michi Michiko Midori Mika Miki Miku Minako Minato Mio 
+			Misaki Mitsuko Miu Miyako Miyu Mizuki Moe Momoka Momoko Moriko Nana Nanami Naoko Naomi Natsuki Natsuko Natsumi 
+			Noa Noriko Ran Rei Ren Riko Rin Rina Rio Sachiko Saki Sakura Sakurako Satomi Sayuri Setsuko Shinju Shinobu 
+			Shiori Shizuka Shun Sora Sumiko Suzu Suzume Takako Takara Tamiko Tomiko Tomoko Tomomi Tsubaki Tsubame Tsubasa 
+			Tsukiko Ume Umeko Wakana Yasu Yoko Yoshi Yoshiko Youko Yua Yui Yuina Yuki Yukiko Yuko Yumi Yumiko Yuri Yuu 
+			Yuuka Yuuki Yuuko Yuuna Yuzuki
+		}
+	}
+	ryukyuan = { #Ryukyuan islands culture
+		primary = RYU
+		dynasty_names = {
+			Shunten Shunabajunki Gihon Eiso Taisei Eiji Tamagusuku Seii Satto Bunei Sho Ba Mo O Agarie Arakachi Fija Ikegusuku
+			Kanagusuku Nagusuku Shimabuku Tamagusuku Tera Toyomigusuku Ufugusuku Yamagusuku	Wibaru
+		}
+		male_names = {
+			Shisho Hashi Chu Shitatsu Kinpuku Taikyu Toku En Seni Shin Sei Gen Ei Nei Ho Ken Shitsu Tei Eki Kei Boku On Sei
+			Ko Iku Tai Iko Chorai Shoi Ryutoku Kyojin Gendo Bainan Chokyo Tei Yoso Kanshin Kan Hangoku Soken Kotoku I Kohaku
+			Kyu Ko Ken Kan Tei Sei O Kyo Zenku Choyo Kyo Bun Koki Konin Kosai Kotoku Koshin Kozen Jun Kei Mo Ki Kan Sei Tetsu
+			Wa Tetsi To Shu Yo Kaku Ho Ko Yo Jun I Chosho Chotatsu Ten Choboku Shun Hitsu In Kyo Jun Shu Ko Ji Sho
+		}
+		female_names = {
+			Oshiro Tomi Hiroko Takako Yui Risa
+		}
+	}
+}
