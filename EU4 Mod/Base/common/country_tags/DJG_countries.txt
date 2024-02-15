@@ -1,0 +1,4 @@
+#Korea Region
+TMN = "countries/DJG_Tamna.txt"
+#Japan
+SOO = "countries/DJG_So.txt"

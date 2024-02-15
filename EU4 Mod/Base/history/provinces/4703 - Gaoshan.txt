@@ -1,0 +1,27 @@
+# 4703 - Gaoshan
+
+culture = polynesian
+religion = animism
+capital = "Yilan"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 4
+native_size = 100	#Eastern Taiwan wasn't pacified until the early 20th century
+native_ferocity = 10
+native_hostileness = 10
+
+
+
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+
+1521.1.1 = { discovered_by = SPA }
+1544.1.1 = { discovered_by = POR }
+
+1786.1.1 = { revolt_risk = 5 } # Rebellion
+1788.1.1 = { revolt_risk = 0 }
