@@ -1,0 +1,2 @@
+# Japan Extended Added Countries
+SOO = "countries/So.txt"

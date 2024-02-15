@@ -1,0 +1,5 @@
+refused_antipiracy_measures = {
+	opinion = -60
+	years = 15
+	yearly_decay = 2
+}

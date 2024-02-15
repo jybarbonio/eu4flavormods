@@ -1,0 +1,17 @@
+culture_group_RyukyuIslands = {
+	graphical_culture = asiangfx
+
+	ryukyuan = { #Ryukyuan culture
+		primary = RYU
+		dynasty_names = { 
+			Riyu Shunten Eiso Satto Osato Haniji Sho Fiija Kanagusuku Ufugusuku Naagusuku Arakaki Tamagusuku Wiibaru Shimabuku Teera Yamagusuku
+		}
+		male_names = {
+			Shoi Kyu Yo Ken Ten Kyo Jun Tetsu Ten En Shin Sei Gen Ei Ho Shitsu Tei Eki Kei Boku On Sei Ko Iku Tai
+		}
+		female_names = {
+			Gesshin Isshi Setsurei Bairei Getsurei Ryogetsu Ryochoku Shun Otoko Michiko Baigaku Konko Baigan Rankei Kaho Hakuso Gesshin
+			Giun Konko Ninshitsu Shukutoku Tokutaku Sentoku Juntoku Gentei Kenshitsu
+		}
+	}
+}

@@ -1,0 +1,18 @@
+﻿l_english:
+ JE_So.0.t:0 "Crackdown on Japanese piracy"
+ JE_So.0.d:0 "Incidents of plunder and pillage by the Waegu are not new to our domain. However in recent years, their piracy has gotten so rampant that many of our coastal towns have been left damaged or completely decimated by their raids, taking with them hundreds of our citizens to be used as slaves, their trade goods and valuables stolen. Despite our repeated protests to both the King of Japan and local warlords who control the lands from which the Waegu operate, our calls for them to curtail the bandits have brought little results. The Daimyo of Tsushima has done so little that their island serves as their main base. Thus, not only does the So Clan benefit from trade with our southern ports, but also the piracy taking place in our country! Many in our court have called for another expedition to the island, but it's only courteous that we warn them to act on the pirates before we do ourselves."
+ JE_So.0.a:0 "Advise [SOO.Monarch.Dynasty.GetName] [SOO.Monarch.GetName] to intervene on his end, or else we will step in"
+ JE_So.0.b:0 "We have more pressing matters to tend to"
+ JE_So.0.c:0 "Send them a show of Naval Force and an Ultimatum"
+ JE_So.1.t:0 "Oei Invasion"
+ JE_So.1.d:0 "A group of Japanese pirates who've been released from Joseon capitivity have come to us claiming to be emissaries of one of their Admirals. They warn of an immediate invasion by a large Korean fleet that has set sail from Geoje, just off Gyeongju, and unless we accede to demands of cracking down on pirate activity on our island, amongst other demands of tribute and subjugation, they will seize our island by force. We can agree to a compromise at the expense of the pirates and the local economy... or we can maintain our position."
+ JE_So.1.a:0 "We must come to an agreement in light of overwhelming odds"
+ JE_So.1.b:0 "And we should believe their empty threats?"
+ JE_So.1.c:0 "Appeal to the Shogunate to resolve the dispute"
+ JE_So.1.bt:0 "The Joseon court will be outraged and take this as a provocation"
+ JE_So.1.ct:0 "This will drag the entirety of Japan into war with Joseon and the Shogunate will not be pleased"
+ JE_So.2.t:0 "Outbreak of War"
+ JE_So.2.d:0 "In light of outright rejection of our demands, we have decided to take Daemado into our own hands!"
+ JE_So.2.a:0 "Prepare for battle!"
+ JE_So.2.b:0 "The Korean realm shall benefit our trade"
+ 

@@ -1,0 +1,407 @@
+government = daimyo
+government_rank = 1
+primary_culture = kyushuan
+religion = shinto
+technology_group = chinese
+capital = 4398	# Tsushima
+
+1245.4.11 = {
+	monarch = {
+		name = "Shigehisa" # 1245 - 1262.1.30 
+		dynasty = "So"
+		adm = 3
+		dip = 2
+		mil = 4
+		}
+}
+
+1262.1.30  = {
+	monarch = {
+		name = "Sukekuni" # 1262 - 1274.9.22 
+		dynasty = "So"
+		adm = 3
+		dip = 2
+		mil = 2
+		}
+}
+
+1274.9.22  = {
+	monarch = {
+		name = "Moriakira" # 1274 - 1302.9.22
+		dynasty = "So"
+		adm = 3
+		dip = 2
+		mil = 3
+		}
+}
+
+1302.9.22 = {
+	heir = {
+		name = "Morikuni"
+		monarch_name = "Morikuni"
+		dynasty = "So"
+		birth_date = 1284.9.22
+		death_date = 1349.1.1
+		claim = 90
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1349.1.1 = {
+	monarch = {
+		name = "Tsuneshige" # 1349 -1366 
+		dynasty = "So"
+		adm = 3
+		dip = 4
+		mil = 2
+		}
+}
+
+1366.1.1 = {
+	heir = {
+		name = "Sumishige"
+		monarch_name = "Sumishige"
+		dynasty = "So"
+		birth_date = 1346.1.1
+		death_date = 1370.9.29
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1370.9.29 = {
+	monarch = {
+		name = "Yorishige"
+		dynasty = "So"
+		birth_date = 1374.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		}
+}
+
+1402.1.1 = {
+	heir = {
+		name = "Sadashige"
+		monarch_name = "Sadashige"
+		dynasty = "So"
+		birth_date = 1368.1.1
+		death_date = 1419.1.1
+		claim = 90
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1419.9.29 = {
+	monarch = {
+		name = "Sadamori"
+		dynasty = "So"
+		birth_date = 1393.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+		}
+}
+
+1452.1.1 = {
+	monarch = {
+		name = "Shigemoto" 
+		dynasty = "So"
+		adm = 2
+		dip = 2
+		mil = 1
+		}
+}
+
+1468.1.1 = {
+	heir = {
+		name = "Sadakuni"
+		monarch_name = "Sadakuni"
+		dynasty = "So"
+		birth_date = 1430.1.1
+		death_date = 1492.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1492.1.1 = {
+	monarch = {
+		name = "Kimori" 
+		dynasty = "So"
+		birth_date = 1454.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+		}
+}
+
+1505.1.1 = {
+	heir = {
+		name = "Yoshimori"
+		monarch_name = "Yoshimori"
+		dynasty = "So"
+		birth_date = 1472.1.1
+		death_date = 1520.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1520.1.1 = {
+	monarch = {
+		name = "Morinaga" 
+		dynasty = "So"
+		birth_date = 1454.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+		}
+}
+
+1526.1.1 = {
+	heir = {
+		name = "Masamori"
+		monarch_name = "Masamori"
+		dynasty = "So"
+		birth_date = 1492.1.1
+		death_date = 1539.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1539.1.1 = {
+	monarch = {
+		name = "Haruyasu" 
+		dynasty = "So"
+		birth_date = 1512.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+		}
+}
+
+1553.1.1 = {
+	heir = {
+		name = "Yoshishige"
+		monarch_name = "Yoshishige"
+		dynasty = "So"
+		birth_date = 1532.1.1
+		death_date = 1566.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1566.1.1 = {
+	monarch = {
+		name = "Shigehisa" 
+		dynasty = "So"
+		birth_date = 1552.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+		}
+}
+
+1569.1.1 = {
+	heir = {
+		name = "Yoshizumi"
+		monarch_name = "Yoshizumi"
+		dynasty = "So"
+		birth_date = 1532.1.1
+		death_date = 1579.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1579.1.1 = {
+	monarch = {
+		name = "Terukage" 
+		dynasty = "So"
+		birth_date = 1554.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+		}
+}
+
+1589.1.1 = {
+	heir = {
+		name = "Yoshishige"
+		monarch_name = "Yoshishige"
+		dynasty = "So"
+		birth_date = 1572.1.1
+		death_date = 1592.1.1
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1592.1.1 = {
+	monarch = {
+		name = "Yoshitoshi" 
+		dynasty = "So"
+		birth_date = 1578.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+		}
+}
+
+1615.1.1 = {
+	heir = {
+		name = "Yoshinari"
+		monarch_name = "Yoshinari"
+		dynasty = "So"
+		birth_date = 1598.1.1
+		death_date = 1657.1.1
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1657.1.1 = {
+	monarch = {
+		name = "Yoshizane" 
+		dynasty = "So"
+		birth_date = 1624.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+		}
+}
+
+1692.1.1 = {
+	heir = {
+		name = "Yoshitsugu"
+		monarch_name = "Yoshinari"
+		dynasty = "So"
+		birth_date = 1654.1.1
+		death_date = 1694.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1694.1.1 = {
+	monarch = {
+		name = "Yoshimichi" 
+		dynasty = "So"
+		birth_date = 1674.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+		}
+}
+
+
+1718.1.1 = {
+	heir = {
+		name = "Yoshinobu"
+		monarch_name = "Yoshinobu"
+		dynasty = "So"
+		birth_date = 1694.1.1
+		death_date = 1730.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1730.1.1 = {
+	monarch = {
+		name = "Michihiro" 
+		dynasty = "So"
+		birth_date = 1712.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+		}
+}
+
+
+1732.1.1 = {
+	monarch = {
+		name = "Yoshiyuki" 
+		dynasty = "So"
+		birth_date = 1700.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+		}
+}
+
+
+1752.1.1 = {
+	monarch = {
+		name = "Yoshishige" 
+		dynasty = "So"
+		birth_date = 1730.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+		}
+}
+
+1762.1.1 = {
+	heir = {
+		name = "Yoshinaga"
+		monarch_name = "Yoshinaga"
+		dynasty = "So"
+		birth_date = 1750.1.1
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1778.1.1 = {
+	monarch = {
+		name = "Yoshikatsu" 
+		dynasty = "So"
+		birth_date = 1750.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+		}
+}
+
+1812.1.1 = {
+	heir = {
+		name = "Yoshitada"
+		monarch_name = "Yoshitada"
+		dynasty = "So"
+		birth_date = 1780.1.1
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}

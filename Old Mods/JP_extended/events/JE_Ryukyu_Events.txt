@@ -1,0 +1,7 @@
+namespace = JE_Ryukyu
+
+country_event = {
+
+	
+
+}

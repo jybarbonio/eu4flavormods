@@ -1,0 +1,8 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "MONGOL_eventPicture"
+		texturefile = "gfx/event_pictures/JE_eventpictures/MONGOL_eventPicture.dds"
+		allwaystransparent = yes
+	}
+}

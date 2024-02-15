@@ -1,0 +1,13 @@
+alliance = {
+	first = SHN
+	second = SOO
+	start_date = 1444.11.11
+	end_date = 1580.1.1
+}
+
+vassal = {
+	first = ASK
+	second = SOO
+	start_date = 1444.11.11
+	end_date = 1610.1.1 #Annexed
+}

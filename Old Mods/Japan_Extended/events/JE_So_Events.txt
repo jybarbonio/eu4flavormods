@@ -1,0 +1,162 @@
+#So Clan Events
+
+namespace = JE_So
+
+country_event = { # Crackdown on Japanese pirates
+	id = JE_So.0
+	title = JE_So.0.t
+	desc = JE_So.0.d
+	picture = NAVAL_MILITARY_eventPicture
+	
+	trigger = {
+		tag = KOR
+		exists = SOO
+		NOT = { alliance_with = SOO }
+		NOT = { war_with = SOO }
+		NOT = { is_year = 1450 }
+		NOT = { truce_with = SOO }
+		4398 = {
+			owned_by = SOO
+		}
+	}
+	
+	mean_time_to_happen = {
+	months = 60
+	}
+	
+	option = {
+		name = "JE_So.0.a"
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 0
+				is_at_war = yes
+			}
+			modifier = {
+				factor = 0
+				has_any_disaster = yes
+			}
+		}
+		add_dip_power = -30
+		SOO = { country_event = { id = JE_So.1 } }
+	}
+	
+	option = {
+		name = "JE_So.0.b"
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 0
+				is_at_war = yes
+			}
+			modifier = {
+				factor = 0
+				has_any_disaster = yes
+			}
+		}
+		add_dip_power = 15
+	}
+}
+
+country_event = { # Joseon demands tribute over pirates
+	id = JE_So.1
+	title = JE_So.1.t
+	desc = JE_So.1.d
+	picture = MONGOL_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "JE_So.1.a" # We must come to an agreement in light of overwhelming odds
+		ai_chance = {
+			factor = 60
+			modifier = {
+				factor = 0
+				is_at_war = yes
+			}
+			modifier = {
+				factor = 0
+				has_any_disaster = yes
+			}
+		}
+		add_dip_power = -40
+		tooltip = {}
+	}
+	
+	option = { # And we should believe their empty threats?
+		name = "JE_So.1.b"
+		ai_chance = {
+			factor = 30
+			modifier = {
+				factor = 0
+				is_at_war = yes
+			}
+			modifier = {
+				factor = 0
+				has_any_disaster = yes
+			}
+		}
+		
+		custom_tooltip = JE_So.1.bt
+		KOR = {
+			limit = { is_at_war = no }
+			add_opinion = {
+				who = ROOT
+				modifier = refused_antipiracy_measures
+				years = 10
+			}
+		}
+	}
+	
+	option = { # Appeal to the Shogunate to resolve the dispute
+		name = "JE_So.1.c"
+		ai_chance = {
+			factor = 10
+			modifier = {
+				factor = 0
+				is_at_war = yes
+			}
+			modifier = {
+				factor = 0
+				has_any_disaster = yes
+			}
+		}
+		custom_tooltip = JE_So.1.ct
+		KOR = { country_event = { id = JE_So.2 } }
+	}
+}
+
+country_event = { #Outbreak of War
+	id = JE_So.2
+	title = JE_So.2.t
+	desc = JE_So.2.d
+	picture = MONGOL_eventPicture
+
+	is_triggered_only = yes
+	
+	major = yes
+	
+	option = {
+		name = JE_So.2.a
+		ai_chance = {
+			factor = 100
+			modifier = {
+				factor = 0
+				is_at_war = yes
+			}
+			modifier = {
+				factor = 0
+				has_any_disaster = yes
+			}
+		}
+		KOR = {
+			declare_war_with_cb = {
+				who = SOO
+				casus_belli = cb_annex
+			}
+		}
+		4398 = {
+			change_controller = KOR
+		}
+	}
+}
